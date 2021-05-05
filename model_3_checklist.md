@@ -3,28 +3,28 @@
 
 &#x202b; 
 ## חלק א׳ - וידוא הפרטים לפני המסירה
-[ ] 1.  יש לוודא כי השם והכתובת מעודכנים כהלכה.
-[ ] 2.  יש לוודא כי ה-VIN תואם את הניירת.
-[ ] 3.  בדוק במסך ה-About אם יש מידע כלשהו שלא תואם לרכב. ניתן להגיע למסך זה על ידי לחיצה על צלמית הרכב בצד הימני-תחתון של המסך, ואז לחיצה על Software. 
+1.  יש לוודא כי השם והכתובת מעודכנים כהלכה.
+2.  יש לוודא כי ה-VIN תואם את הניירת.
+3.  בדוק במסך ה-About אם יש מידע כלשהו שלא תואם לרכב. ניתן להגיע למסך זה על ידי לחיצה על צלמית הרכב בצד הימני-תחתון של המסך, ואז לחיצה על Software. 
 
-## SECTION B - Exterior inspection
-- [ ] 1.  Verify that the vehicle's body color, interior, and wheels match what you configured.
-- [ ] 2.  Inspect body exterior paint for defects. *NOTE: This should really be the only item which should cause you to reject a delivery; most other issues can be easily addressed in a separate service visit.*
-- [ ] 3.  Inspect vehicle underside (front and rear) for signs of scraping, or damage.
-- [ ] 4.  Check for any obvious body panel misalignment, or large gaps.
-- [ ] 5.  Inspect wheel rims for damage.
-- [ ] 6.  Inspect all glass for signs of distortion, scratches, or cracks.
-- [ ] 7.  Check for proper windshield and windshield trim installation.
-- [ ] 8.  Inspect all edges of the roof glass panel and rear window.
-- [ ] 9.  Test all doors to ensure they open and close without unreasonable effort or sound. Check paint in areas such as door hinges, that are not visible when doors are closed. *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
-- [ ] 10.  Test power liftgate operation on trunk.
-- [ ] 11.  Verify that the water guards that line the trunk (below the rear windshield) are free and clear.
-- [ ] 11.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
-- [ ] 12.  Check for the towing eye under the frunk mat.
-- [ ] 13.  Ensure door windows auto-close completely when doors are closed.
-- [ ] 14.  Check for front license plate bracket (if applicable in your state).
-- [ ] 15.  Check all front and rear exterior lights for signs of internal condensation.
-- [ ] 16.  With all doors open, inspect the weather seals around door gaps and windows. *NOTE: Some deliveries have reported seals being "overlapped" incorrectly. This is easily fixed by hand in a few seconds, but worth noting.*
+## חלק ב׳ - בדיקה חיצונית
+1.  יש לוודא כי הצבע החיצוני והפנימי תואמים להזמנה.
+2.  יש לבדוק כי אין פגמים בצבע החיצוני. חשוב: פגמים בצבע החיצוני הם ככל הנראה הסיבה היחידה לדחות את קבלת הרכב. כמעט כל שאר הבעיות יכולות להיפתר בביקור במרכז השירות. 
+3.  יש לבדוק את חלקו התחתון של הרכב (מלפנים ומאחור) לסימנים של שפשוף או נזק.
+4.  יש לבדוק כי אין מרווחים גדולים בין חלקי הרכב, הוא בעיות ביישור (למשל: דלתות לא באותו הגובה)
+5.  יש לבדוק כי אין נזק בגלגלים (הג׳נטים).
+6.  יש לבדוק את כל השמשות, כולל הגג, ולוודא שאין עיוותים, סדקים וכדומה.
+7.  יש לבדוק היטב את השמשה הקדמית לנזק, סדקים ויישור.
+8.  יש לבדוק את הקצוות של חלון הגג והחלון האחורי.
+9.  יש לבדוק את כל הדלתות ולוודא כי הפתיחה והסגירה מתבצעות בהפעלת כח סביר, וללא רעשים מיותרים. יש לבדוק את הצבע באזור צירי הדלתות, במיוחד באזורים אשר מוסתרים בזמן שהדלתות סגורות.
+10.  יש לבדוק שתא המטען האחורי נפתח חשמלית.
+11.  יש לוודא כי מגיני המים מעל תא המטען (מתחת לחלון האחורי) נקיים ופנויים.
+12.  יש לבדוק פתיחה וסגירה של תא המטען הקדמי והאחורי. גם כאן, יש לבדוק צביעה באזורים מוסתרים כשתא המטען סגור.
+13.  יש לבדוק שעינית הגרירה נמצאת תחת השטיח בתא המטען הקדמי.
+14.  יש לוודא סגירה אוטומטית ומלאה של החלונות בעת סגירת דלתות.
+15.  יש לבדוק כי לוחית הרישוי הקדמית מותקנת כראוי.
+16.  יש לבדוק כי לא קיים עיבוי בפנסים הקדמיים והאחוריים.
+17.  כאשר כל הדלתות פתוחות, יש לבדוק כי את גומיות האיטום מסביב לדלתות. אם ישנן בעיות, בעיקר באיזור החפיפה בין הגומיות, ניתן לתקן זאת בקלות, אך חשוב לשים לב לכך
 
 ## SECTION C - Interior inspection
 - [ ] 1.  Check for any error messages on the display screen.
