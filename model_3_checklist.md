@@ -26,26 +26,26 @@
 16.  יש לבדוק כי לא קיים עיבוי בפנסים הקדמיים והאחוריים.
 17.  כאשר כל הדלתות פתוחות, יש לבדוק כי את גומיות האיטום מסביב לדלתות. אם ישנן בעיות, בעיקר באיזור החפיפה בין הגומיות, ניתן לתקן זאת בקלות, אך חשוב לשים לב לכך
 
-## SECTION C - Interior inspection
-- [ ] 1.  Check for any error messages on the display screen.
-- [ ] 2.  Tap the "Toybox" icon at the bottom right of the screen and launch the Sketchpad app. Leave the Sketchpad up for a minute to make sure there are no phantom touches happening on the display.
-- [ ] 3.  Gently test the driver and passenger door emergency release.
-- [ ] 4.  Check all 4 windows to ensure they open and close properly.
-- [ ] 5.  Inspect interior seat upholstery, door surfaces, dash, headliner & carpets (including passenger compartment, frunk, and trunk).
-- [ ] 6.  Check left and right clothing hook operation.
-- [ ] 7.  Check all seat belts for proper operation.
-- [ ] 8.  Check the rear seats for proper fold-down operation.
-- [ ] 9.  Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
-- [ ] 10.  Test the steering wheel position controls to ensure proper operation.
-- [ ] 11.  Press the center of the steering wheel to make sure the vehicle's horn works.
-- [ ] 12.  Test the windshield wipers.
-- [ ] 13.  Test the rearview camera.
-- [ ] 14.  Check side mirrors for proper operation of folding and position adjustment.
-- [ ] 15.  Check sun-visor operation and mirror condition.
-- [ ] 16.  Check the rearview mirror for any warping or distortion.
-- [ ] 17.  Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear).
-- [ ] 18.  Test connectivity of wireless phone charger.
-- [ ] 19.  Check center console cover slide operation.
+## חלק ג׳ - בדיקה פנימית
+1.  יש לוודא כי לא מופיעות הודעות שגיאה במסך הראשי.
+2.  לאחר לחיצה על צלמית ה-Toybox בחלק הימני תחתון של המסך, והפעלה שך אפליקצית Sketchpad. ה, יש להמתין דקה ולוודא כי אין לחיצות ״רפאים״ על המסך.
+3.  Gently test the driver and passenger door emergency release.
+4.  Check all 4 windows to ensure they open and close properly.
+5.  Inspect interior seat upholstery, door surfaces, dash, headliner & carpets (including passenger compartment, frunk, and trunk).
+6.  Check left and right clothing hook operation.
+7.  Check all seat belts for proper operation.
+8.  Check the rear seats for proper fold-down operation.
+9.  Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
+10.  Test the steering wheel position controls to ensure proper operation.
+11.  Press the center of the steering wheel to make sure the vehicle's horn works.
+12.  Test the windshield wipers.
+13.  Test the rearview camera.
+14.  Check side mirrors for proper operation of folding and position adjustment.
+15.  Check sun-visor operation and mirror condition.
+16.  Check the rearview mirror for any warping or distortion.
+17.  Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear).
+18.  Test connectivity of wireless phone charger.
+19.  Check center console cover slide operation.
 
 ## SECTION D - Lighting inspection
 - [ ] 1.  Vanity mirror lights.
