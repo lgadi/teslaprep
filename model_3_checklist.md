@@ -35,7 +35,7 @@
 6.  יש לבדוק כי ווי התליה הימני והשמאלי תקינים.
 7.  יש לבדוק כי כל חגורות הבטיחות מתפקדות כהלכה.
 8.  קיפול של הכסאות האחוריים.
-9.  יש לבצע בדיקה של כל הרמקולים (ניתן לשחק עם balance ועם fade כדי לבדוק מעשית את הרמקולים בנפרד(.
+9.  יש לבצע בדיקה של כל הרמקולים (ניתן לשחק עם balance ועם fade כדי לבדוק מעשית את הרמקולים בנפרד).
 10.  בדיקה של ההגה (מיקום ופעולה נכונים).
 11.  בדיקה קצרה של הצופר על ידי לחיצה על מרכז ההגה.
 12.  בדיקת מגבים.
@@ -43,34 +43,34 @@
 14.  בדיקה של המראות, כולל מיקום וקיפול אוטומטים.
 15.  בדיקת תקינות של מגיני השמש והמראה.
 16.  בדיקת המראה האחורית, ווידוא כי אין עיוותים או סדקים
-17.  בדיקה של כל שקעי ה-USB (1 מסוג A ואחד מסוג C מקדימה, 2 מסוג C מאחור(.
+17.  בדיקה של כל שקעי ה-USB )1 מסוג A ואחד מסוג C מקדימה, 2 מסוג C מאחור).
 18.  בדיקה של משטח ההטענה האלחוטי.
 19.  יש לבדוק כי כיסוי הקונסולה הקדמית מחליק כראוי.
 
-## SECTION D - Lighting inspection
-- [ ] 1.  Vanity mirror lights.
-- [ ] 2.  Front overhead driver & passenger lights.
-- [ ] 3.  Rear overhead left & right side lights.
-- [ ] 4.  Ambient lights
-- [ ] 5.  Driver & passenger foot wells
-- [ ] 6.  Driver & passenger door puddle lights.
-- [ ] 7.  Console middle compartment light.
-- [ ] 8.  Console rear compartment light.
-- [ ] 9.  All door latch button lights.
-- [ ] 10.  All door window button lights.
-- [ ] 11.  Steering wheel control lights.
-- [ ] 12.  Glovebox light (check glovebox opening and closing).
-- [ ] 13.  Frunk light.
-- [ ] 14.  Trunk lights (2).
-- [ ] 15.  Fog lights.
-- [ ] 16.  Headlights (low & high-beam).
-- [ ] 17.  Front park lights.
-- [ ] 18.  Front turn signal lights.
-- [ ] 19.  Left & right side turn signal lights.
-- [ ] 20.  Rear running lights.
-- [ ] 21.  Brake lights.
-- [ ] 22.  Rear turn signal lights.
-- [ ] 23.  Sunvisor driver and passenger lights.
+## חלק ד׳ - בדיקת אורות
+1.  מראת איפור.
+2.  אורות פנימיים קדמיים - נהג ונוסע.
+3.  אורות עליונים אחוריים, ימין ושמאל.
+4.  אור היקפי.
+5.  תאורת רגליים נהג ונוסע.
+6.  תאורת דלת נהג ונוסע.
+7.  אור תא קונסולה מרכזית.
+8.  אור תא קונסולה אחורית.
+9.  אורות נעילת דלתות.
+10.  אורות חלונות דלתות.
+11.  אורות בקרה בהגה.
+12.  אורות תא כפפות (בדיקת פתיחה וסגירה).
+13.  אור תא קדמי.
+14.  אורות תא מטען אחורי (2).
+15.  אורות ערפל.
+16.  אורות קדמיים (נמוכים וגבוהים).
+17.  אורות חניה קדמיים.
+18.  איתותים קדמיים.
+19.  איתות ימני ושמאלי.
+20.  אורות אחוריים.
+21.  אורות בלם.
+22.  איתותים אחוריים.
+23.  אורות מגני השמש (נהג ונוסע).
 
 ## SECTION E - Inspect charging ability
 - [ ] 1.  Check the charge port door for proper operation.
