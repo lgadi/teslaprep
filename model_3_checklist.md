@@ -72,18 +72,15 @@
 22.  איתותים אחוריים.
 23.  אורות מגני השמש (נהג ונוסע).
 
-## SECTION E - Inspect charging ability
-- [ ] 1.  Check the charge port door for proper operation.
-- [ ] 2.  Check charge port indicator light.
-- [ ] 3.  Ensure the vehicle will accept a charge.
-- [ ] 4.  Check the mobile charging kit. Test it to ensure it works.
-    -  J1772 adapter.
-	-  NEMA 5-15 120v adapter.
-	-  Mobile Connector with cable.
+## חלק ה׳ - טעינה
+1.  בדיקה של דלת תא הטעינה.
+2.  בדיקה של אורות שקע הטעינה.
+3.  וידוא כי הרכב מקבל טעינה ונטען.
+4.  וידוא קבלת ערכת טעינה ניידת (כבל סבתא ומתאם type 2).
+    
+## חלק ו׳ - ציוד מקומי
+1.  טסלה ישראל צריכה לספק ערכת תיקון תקרים
 
-## SECTION F - Verify region-specific equipment
-- [ ] 1.  Maryland deliveries should include Tesla's official inflation kit.
-
-## SECTION G - Inspect pairing connectivity
-- [ ] 1.  Test both key cards to ensure they work with your vehicle. Keep one key card on your person in case the phone app does not operate properly.
-- [ ] 2.  Pair your smartphone to your vehicle over Bluetooth.
+## חלק ז׳ - חיבוריות
+1.  יש לוודא כי 2 כרטיסי המפתח עובדים. מומלץ לשמור תמיד אחד בארנק למקרה שהטלפון לא יעבוד.
+2.  יש לוודא חיבור וצימוד של הטלפון ב-Bluetooth.
